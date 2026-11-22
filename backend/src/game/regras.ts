@@ -1,4 +1,4 @@
-import { ErroApp } from "../erros";
+import { ErroApp } from "../errors";
 import type { StatusPartida } from "../types";
 
 export const VIDAS_INICIAIS = 6

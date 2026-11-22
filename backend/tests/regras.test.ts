@@ -5,7 +5,7 @@ import {
     gerarMascara,
     type PartidaJogo
 } from '../src/game/regras'
-import { ErroApp } from '../src/erros'
+import { ErroApp } from '../src/errors'
 
 function partidaBase(sobrescrever: Partial<PartidaJogo> = {}): PartidaJogo{
     return {
