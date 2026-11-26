@@ -118,4 +118,4 @@ Os testes de API usam um banco separado (`prisma/test.db`), criado automaticamen
 - [Diário de bordo](docs/diario-de-bordo.md)
 
 ## Print da tela
-![Tela do jogo](docs/tela.png)
+![Tela do jogo](tela.png)
